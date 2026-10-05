@@ -107,7 +107,7 @@ export default function Hero({ onOpenTerminal, onOpenApiTester }) {
               <div style={{ display: 'flex', alignItems: 'center', gap: '1.25rem', marginBottom: '1.5rem' }}>
                 <div style={{ position: 'relative' }}>
                   <img
-                    src="/avatar.jpg"
+                    src="./avatar.jpg"
                     alt="Pooja - Senior PHP & Laravel Developer"
                     style={{
                       width: '84px',
